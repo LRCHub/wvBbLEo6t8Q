@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Fine On The Outside",
+  "base_artist": "プリシラ・アーン",
+  "createdAt": "2026-03-14T05:40:27.646135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fine On The Outside",
+      "artist": "プリシラ・アーン",
+      "has_synced": true,
+      "path": "select/01_Fine_On_The_Outside_プリシラ・アーン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fine On The Outside",
+      "artist": "Priscilla Ahn",
+      "has_synced": true,
+      "path": "select/02_Fine_On_The_Outside_Priscilla_Ahn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fine On The Outside",
+      "artist": "Takatsugu Muramatsu",
+      "has_synced": true,
+      "path": "select/03_Fine_On_The_Outside_Takatsugu_Muramatsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fine On The Outside",
+      "artist": "[leaf]",
+      "has_synced": true,
+      "path": "select/04_Fine_On_The_Outside_[leaf].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "fine on the outside",
+      "artist": "priscilla ahn",
+      "has_synced": true,
+      "path": "select/05_fine_on_the_outside_priscilla_ahn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fine On The Outside",
+      "artist": "Takatsugu Murumatsu",
+      "has_synced": true,
+      "path": "select/06_Fine_On_The_Outside_Takatsugu_Murumatsu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fine On The Outside",
+      "artist": "Priscilla Ahn",
+      "has_synced": true,
+      "path": "select/07_Fine_On_The_Outside_Priscilla_Ahn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fine On The Outside (思い出のマーニー)",
+      "artist": "プリシラ・アーン",
+      "has_synced": true,
+      "path": "select/08_Fine_On_The_Outside_(思い出のマーニー)_プリシラ・アーン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fine On The Outside (思い出のマーニー)",
+      "artist": "プリシラ・アーン",
+      "has_synced": true,
+      "path": "select/09_Fine_On_The_Outside_(思い出のマーニー)_プリシラ・アーン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fine on the Outside",
+      "artist": "Il Velivolo Ghibli",
+      "has_synced": true,
+      "path": "select/10_Fine_on_the_Outside_Il_Velivolo_Ghibli.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fine On The Outside",
+      "artist": "プリシラ・アーン",
+      "has_synced": true,
+      "path": "select/11_Fine_On_The_Outside_プリシラ・アーン.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Priscilla Ahn - Fine On The Outside (lyric)",
+      "artist": "KHB",
+      "has_synced": true,
+      "path": "select/12_Priscilla_Ahn_-_Fine_On_The_Outside_(lyric)_KHB.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fine On The Outside",
+      "artist": "Priscilla Ahn",
+      "has_synced": false,
+      "path": "select/pl_01_Fine_On_The_Outside_Priscilla_Ahn.txt"
+    }
+  ]
+}
