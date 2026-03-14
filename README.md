@@ -1,0 +1,34 @@
+# プリシラ・アーン – Fine On The Outside
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.67] I never had that many friends growing up
+[00:13.32] So I learned to be
+[00:18.33] Ok with just me, just me, just me, just me
+[00:32.67] And I'll be fine on the outside
+[00:48.17] 
+[00:42.66] I like to eat in school by myself, anyway
+[00:51.34] So I'll just stay right here
+[00:58.57] Right here, right here, right here
+[01:05.81] And I'll be fine on the outside
+[01:21.31] 
+[01:14.06] So I just sit in my room after hours with the moon
+[01:20.98] And think of who knows my name
+[01:26.26] Would you cry if I died
+[01:28.95] Would you remember my face?
+[01:42.45] 
+[01:50.23] So I left home, I packed up and l moved far away
+[01:59.34] From my past one day
+[02:03.90] And I laughed, I laughed, I laughed, I laughed
+[02:13.88] I sound fine on the outside
+[02:27.38] 
+[02:41.84] Sometimes I feel lost, sometimes I'm confused
+[02:46.69] Sometimes I find that I am not alright
+[02:55.73] And I cry, and I cry, and I cry
+[03:11.23] 
+[03:32.98] So I just sit in my room after hours with the moon
+[03:39.81] And think of who knows my name
+[03:45.26] Would you cry if I died
+[03:47.75] Would you remember my face?
+```
